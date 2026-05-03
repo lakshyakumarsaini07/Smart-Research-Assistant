@@ -1,4 +1,4 @@
-# Smart Research Assistant (Gemini 2.5 Flash Edition)
+# Smart Research Assistant
 
 A document-aware AI assistant for research summarization and comprehension powered by Google's Gemini 2.5 Flash API. Upload a document (PDF or TXT), get a concise summary, ask questions about the content, or test your understanding with AI-generated challenges.
 
